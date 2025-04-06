@@ -1,0 +1,42 @@
+name: flutter_application_2
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  firebase_core: ^3.12.1
+  cloud_firestore: ^5.6.5
+  firebase_storage: ^12.4.4
+  firebase_database: ^11.3.4
+  mobile_scanner: ^6.0.7
+  http: ^1.2.2
+  local_auth: ^2.3.0
+  camera: ^0.11.0+2
+  image_picker: ^1.1.2
+  google_mlkit_face_detection: ^0.13.1
+  path_provider: ^2.1.4
+  permission_handler: ^11.3.1
+  encrypt: ^5.0.3
+  connectivity_plus: ^6.0.5
+  firebase_auth: ^5.5.1  # Corrected version to avoid issues
+  firebase_app_check: ^0.3.2+4  # Corrected version
+  google_generative_ai: ^0.4.6
+  geolocator: ^13.0.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  assets:
+    - assets/eci_logo.png
+    - assets/google_logo.png
+    - assets/chatbot_logo.png
+    - assets/close.png
+    - assets/send.png
+    - assets/chat.png
+  uses-material-design: true

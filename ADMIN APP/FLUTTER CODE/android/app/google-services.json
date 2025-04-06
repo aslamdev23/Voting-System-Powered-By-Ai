@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "232619754281",
+    "firebase_url": "https://voting-1da7b-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "voting-1da7b",
+    "storage_bucket": "voting-1da7b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232619754281:android:392475a63e485a7190ad38",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMpsTz3-7w3MQfOK9nuInGVFl42DbtMb4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
