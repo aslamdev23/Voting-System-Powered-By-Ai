@@ -1,5 +1,6 @@
 # Voting-System-Powered-By-Ai
-# SOLUTION CHALLENGE
+# TEAM - DIGI GROOTS
+# SOLUTION CHALLENGE 
 # 1. ****FOR SOURCE CODE: VOTER APP -> FLUTTER CODE**** 
 # 2. ****FOR SOURCE CODE: ADMIN APP -> FLUTTER CODE**** 
 AI-Powered Voter Verification System
