@@ -1,7 +1,7 @@
 # Voting-System-Powered-By-Ai
 # SOLUTION CHALLENGE
-1 . ****FOR SOURCE CODE: VOTER APP -> FLUTTER CODE**** 
-1 . ****FOR SOURCE CODE: ADMIN APP -> FLUTTER CODE**** 
+# 1. ****FOR SOURCE CODE: VOTER APP -> FLUTTER CODE**** 
+# 2. ****FOR SOURCE CODE: ADMIN APP -> FLUTTER CODE**** 
 AI-Powered Voter Verification System
 Our solution revolutionizes voter authentication by integrating AI-powered biometric verification, secure cloud storage, and real-time data analysis to eliminate delays, reduce errors, and enhance security at polling booths. Using Gemini AI, Vertex AI, facial recognition, and fingerprint authentication, we create a seamless, fraud-proof, and highly scalable voting process. By automating voter verification, we ensure faster processing, increased accuracy, and improved voter confidence in the electoral system.
 
